@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pyXsteam
+plotly
+openpyxl
+streamlit-aggrid
